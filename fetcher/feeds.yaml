@@ -1,0 +1,13 @@
+feeds:
+  - name: etnews
+    url: https://rss.etnews.com/ETnews.xml
+  - name: hankyoreh
+    url: https://www.hani.co.kr/rss/
+  - name: yonhap
+    url: http://www.yonhapnewstv.co.kr/browse/rss
+  - name: edaily
+    url: http://rss.edaily.co.kr/edaily.xml
+  - name: seoul
+    url: http://www.seoul.co.kr/rss/
+  - name: kbs
+    url: https://news.kbs.co.kr/rss/rss.xml
